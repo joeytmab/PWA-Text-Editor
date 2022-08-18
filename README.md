@@ -2,7 +2,7 @@
 
 ## Description
 
-Progressive Web Application (PWA) that functions as a text editor for running in the browser. PWAs are different from native apps in that they allow for data persistence--both online AND online--and are quite useful where internet connectivity issues may hinder application functionality.
+Progressive Web Application (PWA) that functions as a text editor for running in the browser. PWAs are different from native apps in that they allow for data persistence--both offline AND online--and are quite useful where internet connectivity issues may hinder application functionality.
 
 For this particular Text Editor app, we are using `idb`, which is a wrapper that helps with utilizing `IndexedDB` API interfaces. This is a popular method for getting and storing data, and is used widely, including in Google and Mozilla products.
 
