@@ -19,13 +19,13 @@ No other requirements for installation are needed.
 ## Application Mockup
 
 When installed, text can be typed into the window. The data will persist even offline, due to the registered service worker.<br/>
-[service worker](./assets/serviceworker.png)<br/>
+![service worker](./assets/images/serviceworker.png)<br/>
 
 A `manifest.json` file is constructed, and is viewed here.<br/>
-[manifest](./assets/manifest.png)<br/>
+![manifest](./assets/images/manifest.png)<br/>
 
 Here we can view data stored correctly within IndexedDB. <br/>
-[indexDB](./assets/indexdbstorage.png)<br/>
+![indexDB](./assets/images/indexdbstorage.png)<br/>
 
 ## Deployed Link (via Heroku)
 
